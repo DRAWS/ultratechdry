@@ -7,5 +7,5 @@ Nostros crearemos una pagina en la cual sera una tienda en linea sobre el prodyc
 
 <b>Integrantes del proyecto:</b>
 <br>Paulina Elizabeth Delgado Urbina</br>
-<br>Ana Valeria Acosta Gonzales<br>
+<br>Ana Valeria Acosta Gonzalez<br>
 Dario Andres Rosales Perez Rodriguez
