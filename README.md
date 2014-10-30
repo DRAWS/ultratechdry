@@ -1,6 +1,6 @@
 proyecto
 ========
-
+<img src="http://paulinadelgado.com/utd.png">
 Nostros crearemos una pagina en la cual sera una tienda en linea sobre el prodycto "UltraEverDry" ya que eso es lo que vamos a estar haciendo en nuestra materia de taller emprendedor por lo que conocemos mas acerca de como se maneja este producto.
 
 ========
