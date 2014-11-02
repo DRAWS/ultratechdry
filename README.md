@@ -6,6 +6,10 @@ Nostros crearemos una pagina en la cual sera una tienda en linea sobre el prodyc
 ========
 
 <b>Integrantes del proyecto:</b>
-<br>Paulina Elizabeth Delgado Urbina</br>
-<br>Ana Valeria Acosta Gonzalez<br>
-Dario Andres Rosales Perez Rodriguez
+<br>Paulina Elizabeth Delgado Urbina 265108</br>
+<br>Ana Valeria Acosta Gonzalez 256905<br>
+Dario Andres Rosales Perez Rodriguez 251961<br>
+
+========
+<b>Lider del equipo<b><br>
+Paulina Elizabeth Delgado Urbina 265108
